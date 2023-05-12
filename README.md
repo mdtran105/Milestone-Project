@@ -6,4 +6,4 @@
 * Python (pandas, seaborn, matplotlib)
 * Tableau: [Tableau Dashboard](https://public.tableau.com/views/Milestone_16752659315130/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 ## Conclusion of project
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+[Contribution guidelines for this project](Analysis.ipynb)
